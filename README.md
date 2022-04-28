@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Kovaceva11
-- 👀 I’m interested in learning how to code. I would like to become an iOS and Android developer.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.JS, Express.JS, React and a little Swift and Kotlin
-- 💞️ I’m looking to expand my knowledge, proficiency and love for programming. 
-- 📫 How to reach me ... message me here!
-
-<!---
-Kovaceva11/Kovaceva11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am a Full-Stack Web Developer and Software Engineer. From Front-End to Back-End; I am coding my very own beautiful, fully responsive websites and mobile applications. My goal is to become a Full-Stack Web Developer with a heavy focus on iOS and Android mobile application development. I eagerly look forward to helping you deploy the perfect applications to help your business succeed.
